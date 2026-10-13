@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# resq — disaster management system
 
-# Run and deploy your AI Studio app
+an ai-assisted disaster management system combining 4+ emergency features.
 
-This contains everything you need to run your app locally.
+## run locally
 
-View your app in AI Studio: https://ai.studio/apps/ef1708f7-81c1-4da7-b58b-be3e76101790
+### prerequisites
+- node.js
+- npm
 
-## Run Locally
+### installation
 
-**Prerequisites:**  Node.js
+1. install dependencies:
 
+   npm install
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+2. configure your api key in `.env.local`.
+
+3. start the development server:
+
+   npm run dev
