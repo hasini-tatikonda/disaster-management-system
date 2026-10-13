@@ -1,6 +1,6 @@
 {
-  "name": "Remix Remix ResQ",
-  "description": "Input-driven disaster management, emergency assistance, preparedness, and rescue-coordination platform.",
+  "name": "ResQ — Disaster Management System",
+  "description": "An AI-powered disaster management platform for emergency assistance, preparedness, and rescue coordination.",
   "requestFramePermissions": [
     "geolocation",
     "microphone"
